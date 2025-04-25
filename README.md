@@ -59,7 +59,7 @@
 <ul>
 <li> <b>Kırmızı-Siyah Ağaç: </b> Kullanıcı aramaları için O(log n) karmaşıklık sağlayan dengeli bir ikili arama ağacıdır. Bu, büyük sosyal ağlarda kullanıcıların hızlı bir şekilde bulunmasını sağlar.</li>
 <li> <b>Komşuluk Listesi: </b> Her kullanıcının arkadaşları için bağlı liste yapısı kullanılmıştır. Bu, bellek kullanımını optimize ederken, yeni arkadaşlık bağlantılarının O(1) sürede eklenmesine olanak tanır.</li>
-<li>DFS (Derinlik Öncelikli Arama): </b> Sosyal ağ grafiğinde dolaşmak için kullanılır. Bu algoritma, belirli bir mesafedeki arkadaşları bulma, topluluk tespiti ve etki alanı hesaplama gibi çeşitli analizler için temel oluşturur. </li>
+<li> <b>DFS (Derinlik Öncelikli Arama): </b> Sosyal ağ grafiğinde dolaşmak için kullanılır. Bu algoritma, belirli bir mesafedeki arkadaşları bulma, topluluk tespiti ve etki alanı hesaplama gibi çeşitli analizler için temel oluşturur. </li>
 </ul>
 
 <h2> Dosya Yapısı </h2>
