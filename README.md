@@ -80,6 +80,18 @@
 <li> <b> Analiz Fonksiyonları: </b>  DFS, ortak arkadaş analizi, topluluk tespiti ve etki alanı hesaplamak için kullanılan fonksiyonlar. </li>
 </li>
 
+<h2>Örnek Veri Dosyası</h2>
+<p>USER 101<br>
+USER 102<br>
+USER 103<br>
+USER 104<br>
+FRIEND 101 102 <br>
+FRIEND 101 103<br>
+FRIEND 102 104<br>
+FRIEND 103 104<br>
+FRIEND 104 105 <br>
+
+  
 <h2> Kullanım </h2>
 <p> Programı çalıştırmak için: 
 <ol>
@@ -129,15 +141,6 @@ Kullanici 103 bulundu!<br>
 Iliskileri: Kullanici 103'nin Arkadaslari: 104 101<br>
 </p>
 
-<h2>Örnek Veri Dosyası</h2>
-<p>USER 101<br>
-USER 102<br>
-USER 103<br>
-USER 104<br>
-FRIEND 101 102 <br>
-FRIEND 101 103<br>
-FRIEND 102 104<br>
-FRIEND 103 104<br>
-FRIEND 104 105 <br>
+
 <h2> Lisans </h2>
 <p>Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.</p>
